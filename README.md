@@ -1,3 +1,6 @@
+
+<a href="https://colab.research.google.com/drive/1fn5p6rQKHJ9mYiAjBvKrLuT8gfxqINqb#scrollTo=m0FtfVzFduEq">🌐 Google Colab</a>
+
 <h1 align="center"><img src="https://i.imgur.com/HsWXQTW.png" width="24px" alt="logo" /> Hotshot-XL</h1>
 
 <h1 align="center">
